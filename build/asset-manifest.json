@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ace26043.css",
+    "main.js": "/static/js/main.0d8874af.js",
+    "static/js/787.e531b79e.chunk.js": "/static/js/787.e531b79e.chunk.js",
+    "static/media/shawshank.jpg": "/static/media/shawshank.321afc69dc2858f395d4.jpg",
+    "static/media/breakingBad.jpg": "/static/media/breakingBad.9bd4eefedd2a4d8dc155.jpg",
+    "static/media/bluey.jpg": "/static/media/bluey.75e1ffcdf7775172398a.jpg",
+    "static/media/baseball.jpg": "/static/media/baseball.ceff93cef985ef11c290.jpg",
+    "static/media/chernobyl.jpg": "/static/media/chernobyl.282f592c681af5b0e15d.jpg",
+    "static/media/911.jpg": "/static/media/911.e7271b9177afce62513d.jpg",
+    "index.html": "/index.html",
+    "main.ace26043.css.map": "/static/css/main.ace26043.css.map",
+    "main.0d8874af.js.map": "/static/js/main.0d8874af.js.map",
+    "787.e531b79e.chunk.js.map": "/static/js/787.e531b79e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ace26043.css",
+    "static/js/main.0d8874af.js"
+  ]
+}
